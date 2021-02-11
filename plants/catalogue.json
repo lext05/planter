@@ -1,0 +1,19 @@
+[
+    {
+        "id": "Peace Lily",
+        "water" : "high",
+        "light" : "low",
+        "alias" : "Spathiphyllum",
+        "notes" : "Can sprout white flowers!",
+        "imagePath" : "/images/peace_lily.jpg"
+    },
+    {
+        "id" : "Birds of Paradise",
+        "water" : "medium",
+        "light" : "bright",
+        "alias" : "Strelitzia",
+        "notes" : "Leaves splitting are natural.",
+        "imagePath" : "/images/bird_of_paradise.jpg"
+    }
+
+]
