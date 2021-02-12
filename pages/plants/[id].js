@@ -1,7 +1,5 @@
 import Layout from '../../components/layout'
-import { getAllPlantIds, getPlantData } from '../../lib/posts'
-import Head from 'next/head'
-import utilStyles from '../../styles/utils.module.css'
+import { getAllPlantIds, getPlantData } from '../../lib/plants'
 import Image from 'next/image'
 
 export default function Plant({ plantData }) {

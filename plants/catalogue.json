@@ -1,6 +1,6 @@
 [
     {
-        "id": "Peace Lily",
+        "id": "Peace-Lily",
         "water" : "high",
         "light" : "low",
         "alias" : "Spathiphyllum",
@@ -8,7 +8,7 @@
         "imagePath" : "/images/peace_lily.jpg"
     },
     {
-        "id" : "Birds of Paradise",
+        "id" : "Birds-of-Paradise",
         "water" : "medium",
         "light" : "bright",
         "alias" : "Strelitzia",

@@ -25,3 +25,9 @@ img {
   max-width: 100%;
   display: block;
 }
+
+.row {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 12px
+}
