@@ -4,7 +4,7 @@
         "water" : "high",
         "light" : "low",
         "alias" : "Spathiphyllum",
-        "notes" : "Can sprout white flowers!",
+        "notes" : "Can sprout white flowers.",
         "imagePath" : "/images/peace_lily.jpg"
     },
     {
@@ -14,6 +14,14 @@
         "alias" : "Strelitzia",
         "notes" : "Leaves splitting are natural.",
         "imagePath" : "/images/bird_of_paradise.jpg"
+    },
+    {
+        "id" : "Money-Tree",
+        "water" : "medium",
+        "light" : "medium",
+        "alias" : "Pachira aquatica",
+        "notes" : "Deep but infrequent watering.",
+        "imagePath" : "/images/money_tree.jpg"
     }
 
 ]

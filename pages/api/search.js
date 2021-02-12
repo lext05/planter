@@ -7,7 +7,6 @@ export default function handler(req, res) {
         if(found){
             var plantUrl = '/plants/' + found.id
             res.status(200).json({ url: plantUrl})
-            console.log(res)
         }
         else{
             res.status(404)
