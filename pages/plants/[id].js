@@ -5,7 +5,7 @@ import Image from 'next/image'
 export default function Plant({ plantData }) {
   return (
     <Layout>
-      <h1>{plantData.id}</h1>
+      <h1>{plantData.id.replace(/-/g, ' ')}</h1>
       <h3>{plantData.alias}</h3>
       <Image
         priority

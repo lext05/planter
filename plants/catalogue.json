@@ -10,7 +10,7 @@
     {
         "id" : "Bird-of-Paradise",
         "water" : "medium",
-        "light" : "bright",
+        "light" : "high",
         "alias" : "Strelitzia",
         "notes" : "Leaves splitting are natural.",
         "imagePath" : "/images/bird_of_paradise.jpg"
